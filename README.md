@@ -1,4 +1,4 @@
-Simplest Pokemon API written in GO about ~5 hours for challenge
+Simplest Pokemon API written in GO about ~5 hours for challenge.
 All the responses in this API is a JSON format to see details better on Firefox or Chrome with JSON Formatter (https://github.com/callumlocke/json-formatter)
 
 ## Task
